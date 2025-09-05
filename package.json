@@ -25,6 +25,6 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
-    "serve": "^14.2.4"
+    "serve": "^14.2.5"
   }
 }
